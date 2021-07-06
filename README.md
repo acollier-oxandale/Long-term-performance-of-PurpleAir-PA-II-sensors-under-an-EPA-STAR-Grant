@@ -14,7 +14,7 @@ The code also notes all libraries requried in addition to the AirSensor package,
 
 # Funding Information and Disclaimer 
 
-This publication was developed under Assistance Agreement No. RD83618401, awarded by the U.S. Environmental Protection Agency through the Science to Achieve Results (STAR) program to South Coast Air Quality Management District. It has not been formally reviewed by EPA. The views expressed in this document are solely those of the authors and do not necessarily reflect those of the EPA. South Coast AQMD and EPA do not endorse any products or commercial services mentioned in this publication.
+The publication associated with this analysis was developed under Assistance Agreement No. RD83618401, awarded by the U.S. Environmental Protection Agency through the Science to Achieve Results (STAR) program to South Coast Air Quality Management District. It has not been formally reviewed by EPA. The views expressed in this document are solely those of the authors and do not necessarily reflect those of the EPA. South Coast AQMD and EPA do not endorse any products or commercial services mentioned in this publication.
 
 *Last edited: 7/2//21*
 
